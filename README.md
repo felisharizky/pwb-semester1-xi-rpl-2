@@ -38,4 +38,15 @@ Macam - macam HTML tags :
 <iframe></iframe> : digunakan untuk menyisipkan halaman web atau konten dari situs web lain ke dalam halaman web saat ini
 <audio></audio> : digunakan untuk menyisipkan file audio di halaman web 
 <video></video> : digunakan untuk menyisipkan file video di halaman web
-<strong></strong> : digunakan untuk menyoroti teks yang dianggap penting, biasanya ditampilkan dalam bentuk teks tebal
+<strong></strong> : digunakan untuk menyoroti teks yang dianggap penting,biasanya ditampilkan dalam bentuk teks tebal
+<em></em> : digunakan untuk menekankan teks dengan gaya yang berbeda, biasanya ditampilkan dalam bentukteks miring 
+<br> : digunakan untuk membuat baris baru (break) tanpa membuat paragraf baru
+<hr> : digunakan untuk menambahkan garis horizontal untuk memisahkan konten
+<abbr></abbr> : digunakan untuk menandai singkatan atau akronim dalam teks yang dapat diberikan informasi tambahan saat digunakan dengan atribut
+<cite></cite> : digunakan untu menandai refrensi ke judul karya seperti buku atau film dalam teks 
+<code></code> : digunakan untuk menandai blok kode komputer atau sintaks
+<pre></pre> : digunakan untuk menandai blok teksyang sudah diformat sebelumnya (preformatted text), seperti kode komputer
+<blockquote></blockquote> : digunakan untuk menandai kutipan teks yang panjang, biasanya dengan identasi pada kedua sisi teks
+<q></q> : digunakan untuk menandai kutipan tekas yang pendek,biasanya dalam tanda kutip
+<sub></sub : digunakan untuk menandai teks sebagai subskrip(teks yang lebih kecil dan posisinya lebih rendah) seperti pada rumus kimia
+<sup></sup> : digunakan untuk menandai teks sebagai superskrip (teks yang lebih kecil dan posisinya lebih tinggi) seperti pada eksponen matematika
