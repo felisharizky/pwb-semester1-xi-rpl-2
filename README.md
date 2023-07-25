@@ -26,6 +26,7 @@ Macam - macam HTML tags :
 <th></th> : digunakan untuk menandai sel kepala dalam tabel (biasanya digunakan untuk judul kolom)
 <form></form> : digunakan untuk mwembuat formulir untuk mengumpulkan data dari pengguna 
 <input> : digunakan untuk membuat elemen input dalam formulir, seperti teks, kotak centang, tombol radio, dll
+<output></output> : digunakan untuk menghasilkan hasil input
 <textarea></textarea> : digunakan untuk memuat area input teks yang lebih besar dalam formulir
 <button></button> : digunakan untuk membuat tombol dalam formulir
 <select></select> : digunakan untuk membuat elemen drop-down (pilihan tunggal) dalam formulir
